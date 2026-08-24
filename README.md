@@ -1,43 +1,46 @@
-# Portfólio de Projetos - Fatec Jacareí
+# ⚔️ Portfólio — Marcus Nascimento
 
-**Aluno:** Marcus Vinicius Ribeiro do Nascimento
+Portfólio pessoal desenvolvido para apresentar meus principais projetos, experiências e tecnologias utilizadas durante minha jornada como desenvolvedor de software.
 
-**Curso:** Desenvolvimento de Software Multiplataforma
+## 🌐 Portfólio Online
 
-**Turma:** 2DSM - 2025
+🔗 **[Acesse o Portfólio](LINK_DO_DEPLOY)**
 
----
+## 👨‍💻 Sobre
 
-## Portfólio Online
+Sou estudante de **Desenvolvimento de Software Multiplataforma na FATEC Jacareí**, com foco em desenvolvimento Full Stack.
 
-🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523033/)
+O portfólio reúne projetos acadêmicos e pessoais, incluindo aplicações desenvolvidas com frontend, backend, APIs REST e bancos de dados.
 
----
+A interface foi inspirada em **RPGs retrô, dark fantasy e estética 16-bit**, buscando criar uma identidade visual própria sem deixar de apresentar as informações profissionais de forma clara.
 
-## Vídeo de Apresentação
+## 🚀 Projeto em Destaque
 
-🎥 2DSM - [Vídeo](https://youtu.be/m2xdjGKQ8jQ)
+### Controle de Produção
 
----
+Sistema Full Stack desenvolvido a partir da minha experiência profissional com planejamento e controle de produção.
 
-## Sobre o Projeto
+A aplicação permite gerenciar clientes, peças, pedidos e ordens de serviço, além de acompanhar indicadores e informações relacionadas ao fluxo produtivo.
 
-### ⚔ Portfólio Retro Fantasy
+**Tecnologias:**
 
-Projeto de portfólio pessoal inspirado em RPGs retrô, dark fantasy e estética 16-bit, desenvolvido utilizando HTML, CSS e JavaScript.
+* React
+* TypeScript
+* Node.js
+* Express
+* Prisma ORM
+* PostgreSQL
+* JWT
 
-O objetivo do projeto foi criar uma interface mais interativa e estilizada, explorando efeitos visuais, pixel art e elementos temáticos inspirados em jogos clássicos.
+## 🛠️ Tecnologias do Portfólio
 
----
+* HTML5
+* CSS3
+* JavaScript
 
-## Tecnologias Utilizadas
+## 👤 Autor
 
-- HTML5
-- CSS3
-- JavaScript
+**Marcus Vinicius Ribeiro do Nascimento**
 
----
-
-## Autor
-
-Marcus Vinicius Ribeiro do Nascimento
+* GitHub: [MarcusVRDN](https://github.com/MarcusVRDN)
+* LinkedIn: [Marcus Nascimento](https://www.linkedin.com/in/marcus-nascimento-50a0ba1b5)
